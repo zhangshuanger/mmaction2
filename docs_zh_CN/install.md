@@ -242,3 +242,7 @@ model = init_recognizer(config_file, device=device)
 # 进行演示视频的推理
 inference_recognizer(model, 'demo/demo.mp4')
 ```
+```woaizhangshuang
+# wozeitamaaizhangshuang
+
+```
